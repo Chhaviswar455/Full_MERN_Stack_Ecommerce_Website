@@ -1,0 +1,2 @@
+# Full_MERN_Stack_Ecommerce_Website
+Developed a MERN-based e-commerce website with secure payment gateways and real-time inventory management. Created an intuitive admin dashboard for streamlined product management. Collaborated cross- functionally, ensuring customer satisfaction and driving business growth
